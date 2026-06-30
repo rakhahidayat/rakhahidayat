@@ -102,25 +102,14 @@ I work comfortably both as an independent contributor and as part of cross-funct
 
 ---
 
-## GitHub Stats
+## By the Numbers
 
-<div align="center">
-
-![Rakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakhahidayat&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhahidayat&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Experience Highlights
-
-```
-7+   years   — Professional software development
-5    companies — PT. eDOT · Openloop Health · Wistkey · SIMBA Telecom · United Tractors
-4    countries — Indonesia · Singapore · Hong Kong · United States
-10+  projects  — Shipped production applications across 5+ industries
-```
+| | |
+|---|---|
+| **7+ years** | Professional software development |
+| **6 companies** | United Tractors · Nagendra Kreasi · SIMBA Telecom · eDOT · Wistkey · Openloop Health |
+| **4 countries** | Indonesia · Singapore · Hong Kong · United States |
+| **10+ projects** | Production apps shipped across 5+ industries |
 
 ---
 
