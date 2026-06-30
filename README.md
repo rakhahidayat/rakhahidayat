@@ -25,8 +25,33 @@ I work comfortably both as an independent contributor and as part of cross-funct
 ## What I'm Working On
 
 - **Full Stack Engineer @ [Openloop Health](https://openloophealth.com)** *(US Remote)* — Building a SaaS healthcare intake builder platform with Next.js, enabling healthcare providers to design patient intake workflows through a low-code/no-code interface
-- **Analyst Programmer @ Wistkey Technologies** *(HK Freelance)* — AR/3D geospatial weather visualization for government use, e-commerce management platforms, and recycling & warehouse systems
-- **Senior Frontend Developer @ PT. eDOT** *(Remote)* — Leading frontend for the eDOT SuperApp (React Native) and eSuite DMS web platform
+
+---
+
+## Experience
+
+| Period | Role | Company | Location |
+|---|---|---|---|
+| May 2025 – Present | Full Stack Engineer | Openloop Health | United States · Remote |
+| Oct 2025 – Jun 2026 | Analyst Programmer | Wistkey Technologies | Hong Kong · Freelance |
+| Nov 2022 – Present | Senior Frontend Developer | PT. eDOT | Bandung · Remote |
+| Nov 2021 – Nov 2022 | Software Engineer | SIMBA Telecom PTE. LTD. | Singapore · Remote |
+| Feb 2021 – Nov 2021 | Software Engineer | PT. Nagendra Kreasi Indonesia | Indonesia |
+| Aug 2019 – Feb 2021 | Frontend Developer | United Tractors Tbk. | Indonesia |
+
+### Highlights
+
+**Openloop Health** — Develop and maintain a SaaS healthcare intake builder with Next.js, integrating Python-based APIs and building reusable UI components for complex healthcare intake scenarios.
+
+**Wistkey Technologies** — Built AR/3D geospatial weather visualization for government use (Unity 6, AR Foundation, Cesium), e-commerce management platform, recycling & warehouse system (Kotlin, Spring Boot, PostgreSQL), and migrated a POS app from native iOS to React Native.
+
+**PT. eDOT** — Led frontend for the eDOT SuperApp (React Native) — a multi-feature platform integrating e-commerce, food delivery, vehicle rental, and real-time chat. Also developed eSuite, a Distribution Management System web platform.
+
+**SIMBA Telecom** — Built a React Native mobile app for internet plan purchasing and a React.js/Angular web landing page for a Singapore-based telecom provider.
+
+**PT. Nagendra Kreasi Indonesia** — Built internal prototypes including a real-time video conferencing application using WebRTC.
+
+**United Tractors** — Developed UT Connect, an internal dashboard for tracking heavy equipment conditions, fuel consumption, and activity duration for consumer fleets.
 
 ---
 
