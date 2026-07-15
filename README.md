@@ -34,7 +34,7 @@ I work comfortably both as an independent contributor and as part of cross-funct
 |---|---|---|---|
 | May 2025 – Present | Full Stack Engineer | Openloop Health | United States · Remote |
 | Oct 2025 – Jun 2026 | Analyst Programmer | Wistkey Technologies | Hong Kong · Freelance |
-| Nov 2022 – Present | Senior Frontend Developer | PT. eDOT | Bandung · Remote |
+| Nov 2022 – May 2026 | Senior Frontend Developer | PT. eDOT | Bandung · Remote |
 | Nov 2021 – Nov 2022 | Software Engineer | SIMBA Telecom PTE. LTD. | Singapore · Remote |
 | Feb 2021 – Nov 2021 | Software Engineer | PT. Nagendra Kreasi Indonesia | Indonesia |
 | Aug 2019 – Feb 2021 | Frontend Developer | United Tractors Tbk. | Indonesia |
