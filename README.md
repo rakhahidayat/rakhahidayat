@@ -6,7 +6,7 @@
 
 *Building high-performance web & mobile applications across healthcare, logistics, telecom, and e-commerce*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rakhahidayatwakid--portofolio.netlify.app-blue?style=flat-square&logo=netlify)](https://rakhahidayatwakid-portofolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rakhahidayatwakid--portofolio.netlify.app-blue?style=flat-square&logo=netlify)](https://rakhahidayat.site)
 [![Email](https://img.shields.io/badge/Email-rakhahidayatwakid23@gmail.com-red?style=flat-square&logo=gmail)](mailto:rakhahidayatwakid23@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Malang%2C%20Indonesia-green?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=Malang,Indonesia)
 
