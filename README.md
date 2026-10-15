@@ -118,7 +118,7 @@ I work comfortably both as an independent contributor and as part of cross-funct
 I'm open to interesting remote opportunities, freelance projects, or just a good conversation about tech.
 
 📧 [rakhahidayatwakid23@gmail.com](mailto:rakhahidayatwakid23@gmail.com)  
-🌐 [rakhahidayatwakid-portofolio.netlify.app](https://rakhahidayatwakid-portofolio.netlify.app)  
+🌐 [rakhahidayat.site](https://rakhahidayat.site)  
 📍 Malang, Indonesia
 
 ---
